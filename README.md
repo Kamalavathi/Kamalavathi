@@ -1,7 +1,7 @@
 ![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2022/09/programmng-language.jpg)
 <h1 align="center">Hi 👋, I'm Kamalavathi S Balegar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalavathi&label=Profile%20views&color=0e75b6&style=flat" alt="kamalavathi" /> </p>
 
